@@ -4,7 +4,7 @@ DroneComponents
 ##Index
 
 <ol>
-<li>[YU - The Hexacopter](#introduction)</li>
+<li>[YU - The Hexacopter](https://github.com/yuthehexacopter/DroneComponents#yu---the-hexacopter-)</li>
 <li>Snapshot</li>
 <li>The Blog</li>
 </ol>
