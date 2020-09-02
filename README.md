@@ -14,6 +14,8 @@ drone footages and snaps which I recetnly built.
 
 Introducing Vayu / YU / वायु is an educational purpose Artificial Intelligence (AI) based hexacopter created for research of drone for Indian Scenerios. YU is self made hexacopter for learners - skilled from beginners to advance level drone makers and enthusiasts, interested in both Hardware & Software side of development. The hardware side includes Electronics Components and Software side includes including Data Science (DS) / Machine Learning (ML) / Internet of Things(IoT) and Computer Vision(CV).
 
-
 Connect with me on.
 Instagram: https://www.instagram.com/yuthehexacopter/
+
+### Snapshot
+![YU snap!](/img/snap01.png "YU Span")
