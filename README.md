@@ -5,6 +5,8 @@ DroneComponents
 
 1. [YU - The Hexacopter](https://github.com/yuthehexacopter/DroneComponents#yu---the-hexacopter-)
 2. [The Blog](https://github.com/yuthehexacopter/DroneComponents#the-blog)
+3. [Repository](https://github.com/yuthehexacopter/DroneComponents#repository)
+4. [Important References](https://github.com/yuthehexacopter/DroneComponents#references)
 
 Hi, I am Ankit. I am an Engineer. Recently I started an Insta handle @yuthehexacopter and posted some of the
 drone footages and snaps which I recetnly built.
@@ -39,19 +41,84 @@ These components are common for Quadcopter / Hexacopter as a carrier or racing d
 
 #### Basics
 
-01. Drone Theory
-02. Local drone rules by concerned authority
-03. Drone Frame
-04. Flight Controller
-05. Electronic Speed Controller
-06. Brushless Motors & Propellers
-07. Battery
-08. GPS Module
-09. Telemetry Module (Sender & Receiver)
-10. 2.4 GHz 6 Channel Remote Control & Receiver
+01. [Drone Theory](https://github.com/yuthehexacopter/DroneComponents#drone-theory)
+02. [Local drone rules by concerned authority](https://github.com/yuthehexacopter/DroneComponents#drone-rules)
+03. [Drone Frame](https://github.com/yuthehexacopter/DroneComponents#drone-frame)
+04. [Flight Controller](https://github.com/yuthehexacopter/DroneComponents#flight-controller)
+05. [Electronic Speed Controller](https://github.com/yuthehexacopter/DroneComponents#esc)
+06. [Brushless Motors & Propellers](https://github.com/yuthehexacopter/DroneComponents#motors-and-propellers)
+07. [Battery](https://github.com/yuthehexacopter/DroneComponents#battery)
+08. [GPS Module](https://github.com/yuthehexacopter/DroneComponents#gps-module)
+09. [Telemetry Module (Sender & Receiver)](https://github.com/yuthehexacopter/DroneComponents#telemetry)
+10. [2.4 GHz 6 Channel Remote Control & Receiver](https://github.com/yuthehexacopter/DroneComponents#remote-controller)
 
 #### Advanced
 
-7. Companion Computers
-8. IoT board - Arduino & ESP8266
-9. LiDAR Sensor
+7. [Companion Computers](https://github.com/yuthehexacopter/DroneComponents#companion-computers)
+8. [IoT board - Arduino & ESP8266](https://github.com/yuthehexacopter/DroneComponents#iot-boards)
+9. [LiDAR Sensor](https://github.com/yuthehexacopter/DroneComponents#lidar)
+
+[Back to top](https://github.com/yuthehexacopter/DroneComponents#dronecomponents)
+
+### Drone Theory
+
+
+[Back to list](https://github.com/yuthehexacopter/DroneComponents#the-blog)
+
+### Drone Rules
+
+
+[Back to list](https://github.com/yuthehexacopter/DroneComponents#the-blog)
+
+### Drone Frame
+
+[Back to list](https://github.com/yuthehexacopter/DroneComponents#the-blog)
+
+### Flight Controller
+
+[Back to list](https://github.com/yuthehexacopter/DroneComponents#the-blog)
+
+
+### ESC
+
+[Back to list](https://github.com/yuthehexacopter/DroneComponents#the-blog)
+
+### Motors and Propellers
+
+[Back to list](https://github.com/yuthehexacopter/DroneComponents#the-blog)
+
+### Battery
+
+[Back to list](https://github.com/yuthehexacopter/DroneComponents#the-blog)
+
+### GPS Module
+
+[Back to list](https://github.com/yuthehexacopter/DroneComponents#the-blog)
+
+### Telemetry
+
+[Back to list](https://github.com/yuthehexacopter/DroneComponents#the-blog)
+
+### Remote Controller
+
+[Back to list](https://github.com/yuthehexacopter/DroneComponents#the-blog)
+
+### Companion Computers
+
+[Back to list](https://github.com/yuthehexacopter/DroneComponents#the-blog)
+
+### IoT Boards
+
+[Back to list](https://github.com/yuthehexacopter/DroneComponents#the-blog)
+
+### LiDAR
+
+[Back to list](https://github.com/yuthehexacopter/DroneComponents#the-blog)
+
+### Repository
+
+[Back to top](https://github.com/yuthehexacopter/DroneComponents#dronecomponents)
+### References
+
+
+[Back to top](https://github.com/yuthehexacopter/DroneComponents#dronecomponents)
