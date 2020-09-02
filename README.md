@@ -5,12 +5,9 @@ DroneComponents
 
 
 1. [YU - The Hexacopter](https://github.com/yuthehexacopter/DroneComponents#yu---the-hexacopter-)
-2. [The Blog](https://github.com/yuthehexacopter/DroneComponents#yu---the-hexacopter-)
+2. [The Blog](https://github.com/yuthehexacopter/DroneComponents#the-blog)
 
-
-Hi,
-
-I am Ankit. I am an Engineer. Recently I started an Insta handle @yuthehexacopter and posted some of the
+Hi, I am Ankit. I am an Engineer. Recently I started an Insta handle @yuthehexacopter and posted some of the
 drone footages and snaps which I recetnly built.
 
 ### YU - The Hexacopter <a name="introduction"></a>
@@ -41,9 +38,9 @@ A lot of people who have come accross have been asking me question regarding the
 Well let start with the List of the Components. You need the following items in our inventory to make your own Copter.
 These components are common for Quadcopter / Hexacopter as a carrier or racing drones.
 
-
-
-1. Drone Frame
-2. Flight Controller
-3. Motors
-4. Propellers
+1. Drone Theory
+2. Local drone rules by concerned authority
+3. Drone Frame
+4. Flight Controller
+5. Motors
+6. Propellers
