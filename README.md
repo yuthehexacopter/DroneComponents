@@ -3,11 +3,10 @@ DroneComponents
 
 ##Index
 
-<ol>
-<li>![YU - The Hexacopter](https://github.com/yuthehexacopter/DroneComponents#yu---the-hexacopter-)</li>
-<li>Snapshot</li>
-<li>The Blog</li>
-</ol>
+
+1. [YU - The Hexacopter](https://github.com/yuthehexacopter/DroneComponents#yu---the-hexacopter-)
+2. Snapshot
+3. The Blog
 
 
 Hi,
@@ -34,9 +33,8 @@ Well let start with the List of the Components. You need the following items in 
 These components are common for Quadcopter / Hexacopter as a carrier or racing drones.
 
 
-<ol>
-<li>Drone Frame</li>
-<li>Flight Controller</li>
-<li>Motors</li>
-<li>Propellers</li>
-</ol>
+
+1. Drone Frame
+2. Flight Controller
+3. Motors
+4. Propellers
