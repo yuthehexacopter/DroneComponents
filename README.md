@@ -18,4 +18,4 @@ Connect with me on.
 Instagram: https://www.instagram.com/yuthehexacopter/
 
 ### Snapshot
-![YU snap!](/img/snap01.png "YU Span")
+<img src="/img/snap01.png" alt="YU snap!" width="200"/>
