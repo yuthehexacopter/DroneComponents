@@ -3,7 +3,6 @@ DroneComponents
 
 ##Index
 
-
 1. [YU - The Hexacopter](https://github.com/yuthehexacopter/DroneComponents#yu---the-hexacopter-)
 2. [The Blog](https://github.com/yuthehexacopter/DroneComponents#the-blog)
 
@@ -20,7 +19,7 @@ Introducing Vayu / YU / वायु is an educational purpose Artificial Intell
 
 Unmanned Arial Vehicle(UAV) is simplest structure which is designed to fly by a precalculated angular velocity and upward thrust. The fun part begins with automation. This particular drone is a flying linux computer. Infact a complete implemention of Artificial Intelligence (AI) that includes Machine Learning(ML), Computer Vision(openCV), and Internet of Things(IOT). The brain of UAV is usually a flight controller controlled by a Ground Control Station (GCS) - The remote control in your hand basically plus a laptop connected with telemetry in this case. BUT, when I put a bigger processing power above it, A Raspberry Pi, A Single Board Computer(SBC) in this case, the GCS fly with it, giving them instructions and collecting all the information without any manual intervention. NOW thats a perfect automation. 🤩🤩🤩
 
-PYTHON + DRONEKIT + RASPBERRY PI + PIXHAWK + OPENCV + TENSOR FLOW.
+PYTHON + DRONEKIT + RASPBERRY PI + PIXHAWK + OPENCV + TENSORFLOW.
 
 Drone built by @dwalkincamera
 @contemplativeradicals.ai
@@ -38,9 +37,21 @@ A lot of people who have come accross have been asking me question regarding the
 Well let start with the List of the Components. You need the following items in our inventory to make your own Copter.
 These components are common for Quadcopter / Hexacopter as a carrier or racing drones.
 
-1. Drone Theory
-2. Local drone rules by concerned authority
-3. Drone Frame
-4. Flight Controller
-5. Motors
-6. Propellers
+#### Basics
+
+01. Drone Theory
+02. Local drone rules by concerned authority
+03. Drone Frame
+04. Flight Controller
+05. Electronic Speed Controller
+06. Brushless Motors & Propellers
+07. Battery
+08. GPS Module
+09. Telemetry Module (Sender & Receiver)
+10. 2.4 GHz 6 Channel Remote Control & Receiver
+
+#### Advanced
+
+7. Companion Computers
+8. IoT board - Arduino & ESP8266
+9. LiDAR Sensor
