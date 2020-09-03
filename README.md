@@ -32,6 +32,8 @@ YU Instagram: https://www.instagram.com/yuthehexacopter/
 
 #### Buy A Basic Drone Kit
 
+I would recommend, there are tons of ways to build a quadcopter under a budget, so feel free to do your research before buying anything. Suggested (But not recommended), a basic kit below if you want to make a basic manually drive quodcopter.  
+
 - <a href="https://amzn.to/3hZKu4a" target="_blank">Amazon</a>
 
 [Back to top](https://github.com/yuthehexacopter/DroneComponents#dronecomponents)
@@ -567,6 +569,10 @@ Propeller guard will protect the propellers from crashes like accidentally bumpi
 *	Material: Plastic
 *	Weight: 145 grams
 
+#### Buy Item
+
+- <a href="https://amzn.to/3gX8cMM" target="_blank">Amazon</a>
+
 [Back to list](https://github.com/yuthehexacopter/DroneComponents#the-blog)
 
 ---
@@ -587,6 +593,8 @@ Propeller guard will protect the propellers from crashes like accidentally bumpi
 *	Configure APM settings for your airframe
 *	Interface with a PC flight simulator to create a full hardware-in-the-loop UAV simulator.
 *	See the output from APM’s serial terminal
+
+[Download](https://ardupilot.org/planner/docs/mission-planner-installation.html)
 
 [Back to list](https://github.com/yuthehexacopter/DroneComponents#the-blog)
 
@@ -609,6 +617,8 @@ Propeller guard will protect the propellers from crashes like accidentally bumpi
 *	Video streaming with instrument display overlays.
 *	Support for managing multiple vehicles.
 
+[Download](http://qgroundcontrol.com/downloads/)
+
 [Back to list](https://github.com/yuthehexacopter/DroneComponents#the-blog)
 
 ---
@@ -621,6 +631,8 @@ Propeller guard will protect the propellers from crashes like accidentally bumpi
 *Compatible OS:* Windows,Mac, Unix & Android
 *Language:* Python
 *Description:* DroneKit offers an SDK and web API to easily develop apps for your drones. It is used for intelligent planning, Flight Automation and Live telementary. DroneKit also helps create powerful apps that communicate directly with MAVLink vehicles and python API. DroneKit makes it easy to create customized Android experiences for in-flight interaction using Android API.
+
+[Download](https://github.com/dronekit/dronekit-python)
 
 [Back to list](https://github.com/yuthehexacopter/DroneComponents#the-blog)
 
@@ -651,6 +663,8 @@ This is the full-featured, open-source multicopter UAV controller that won the S
 *	Typically use a single lifting rotor with two or more blades
 *	Maintain directional control by varying blade pitch via servo-actuated mechanical linkage (many versions of these craft exist and it is beyond the scope of this manual to cover them all – the mechanical systems used in helicopters warrant special study and consideration)
 *	Strong, fast and efficient – a proven-worker suitable to many missions.
+
+[Download](https://firmware.ardupilot.org/)
 
 [Back to list](https://github.com/yuthehexacopter/DroneComponents#the-blog)
 
