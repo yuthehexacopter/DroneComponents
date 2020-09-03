@@ -553,5 +553,10 @@ Check the following websites for updates and configuration documentations.
 * [Ardupilot](https://ardupilot.org/copter/index.html)
 * [Drone Kit](https://dronekit-python.readthedocs.io/en/latest/)
 * [QGroundControl](http://qgroundcontrol.com/)
+* [Raspberry Pi](https://www.raspberrypi.org/)
+* [Arduino](https://www.arduino.cc/)
+* [Open CV](https://opencv.org/)
+* [Python](https://www.python.org/)
+* [Tensor Flow](https://www.tensorflow.org/)
 
 [Back to top](https://github.com/yuthehexacopter/DroneComponents#dronecomponents)
