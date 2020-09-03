@@ -158,6 +158,8 @@ Built from quality glass fiber and poly amide nylon.Integrated PCB connections f
 
 [Back to list](https://github.com/yuthehexacopter/DroneComponents#the-blog)
 
+---
+
 ### Flight Controller
 
 #### Pixhawk
@@ -201,6 +203,8 @@ Built from quality glass fiber and poly amide nylon.Integrated PCB connections f
 
 [Back to list](https://github.com/yuthehexacopter/DroneComponents#the-blog)
 
+---
+
 ### ESC
 
 ![ESC!](/img/esc.png "ESC")
@@ -226,6 +230,8 @@ in the market.
 - <a href="https://amzn.to/358ZsAW" target="_blank">Amazon</a>
 
 [Back to list](https://github.com/yuthehexacopter/DroneComponents#the-blog)
+
+---
 
 ### Motors and Propellers
 
