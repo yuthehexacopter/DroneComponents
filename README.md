@@ -144,6 +144,12 @@ Built from quality glass fiber and poly amide nylon.Integrated PCB connections f
 * Recommended: ESC: 15A - 40A.
 * Recommended: Motor: 800-1100 KV (brushless dc motor)
 
+#### Buy Item
+
+- Qudcopter Frame with landing gear
+  - Amazon: https://amzn.to/3567RVV
+- Hexacopter Frame
+  - Amazon: https://amzn.to/2R4Jwb3
 
 [Back to list](https://github.com/yuthehexacopter/DroneComponents#the-blog)
 
@@ -155,6 +161,10 @@ Built from quality glass fiber and poly amide nylon.Integrated PCB connections f
 
 * Pixhawk is an independent open-hardware project that aims to provide the standard for readily-available, hiqh-quality and low-cost autopilot hardware designs for the academic, hobby and developer communities.
 * Pixhawk supports many additional sensors and other devices via PX4 drivers
+
+#### Buy item
+
+- Amazon: https://amzn.to/3hVSXVV
 
 #### Arducopter (Discontinued)
 
@@ -180,6 +190,9 @@ Built from quality glass fiber and poly amide nylon.Integrated PCB connections f
 7. Naze32 Rev 6 Flight Controller
 8. KISS FC – 32bit Flight Controller V1.03
 
+#### Buy item
+
+- Amazon: https://amzn.to/35193Kc
 
 [Back to list](https://github.com/yuthehexacopter/DroneComponents#the-blog)
 
@@ -202,6 +215,10 @@ An electronic speed control or ESC is an electronic circuit that controls and re
 * 3 start modes: Normal / Soft / Super-Soft, compatible with fixed-wing aircraft and helicopters.
 * Throttle range can be configured to be compatible with any remote control available
 in the market.
+
+#### Buy Item
+
+- Amazon: https://amzn.to/358ZsAW
 
 [Back to list](https://github.com/yuthehexacopter/DroneComponents#the-blog)
 
