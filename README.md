@@ -514,6 +514,8 @@ Voltage and current measurement configured for 5V ADC. 6-pos DF13 cable plugs di
 
 ### Landing Gear
 
+![Landing Gear!](/img/landing-gear.png "Landing Gear")
+
 This Plastic Landing Gear for Quadcopter is specially designed for the F450. It protects the frame during landing especially if you are using cameras for FPV. High-quality material which is very durable and heavy duty.
 
 *	Material: ABS Plastic
@@ -529,6 +531,8 @@ This Plastic Landing Gear for Quadcopter is specially designed for the F450. It 
 *	Compatible with Q450 and S500 and another large size frames
 
 ### Propeller Guard
+
+![Propeller Guards!](/img/guards.png "Propeller Guards")
 
 Propeller guard will protect the propellers from crashes like accidentally bumping into trees, walls, or any other obstacles.
 
