@@ -372,11 +372,30 @@ This is the FlySky FS-i6 2.4G 6CH PPM RC Transmitter With FS-iA6B Receiver. This
 
 [Back to list](https://github.com/yuthehexacopter/DroneComponents#the-blog)
 
-### Companion Computers
+### Companion Computers / IoT Boards
 
-[Back to list](https://github.com/yuthehexacopter/DroneComponents#the-blog)
+#### Raspberry Pi
 
-### IoT Boards
+The Raspberry Pi is a series of small single-board computers developed in the UK by the Raspberry Pi Foundation to put the power of computing and digital making into the hands of people all over the world. If at the beginning the aims of the Raspberry Pi project were leaned towards the promotion of teaching of basic computer science in schools and in developing countries, it rapidly expanded into a wider range of uses, as the original model became far more popular than anticipated, selling outside its target market for uses such as robotics. It is now widely used even in research projects, such as for weather monitoring because of its low cost and portability. It does not include peripherals (such as keyboards and mice) or cases. However, some accessories have been included in several official and unofficial bundles.
+
+* Raspberry Pi Zero
+* Onion Omega2Plus	5
+* BBC micro:bit
+* Rock64 Media Board
+* PocketBeagle
+* Arduino Mega
+* Le Potato
+* Rock Pi 4 Model B
+* Odroid-C4
+* Pine A64-LTS
+* Banana Pi
+* Orange Pi 4B
+* NanoPC-T3 Plus
+* Odroid-XU4
+* Asus Tinker Board S
+* LattePanda
+* Minnowboard Turbot Dual Ethernet
+* BeagleBoard-X15
 
 [Back to list](https://github.com/yuthehexacopter/DroneComponents#the-blog)
 
