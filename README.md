@@ -30,8 +30,11 @@ follow the channel for Artificial Intelligence, Computer Vision & Internet of Th
 Connect with me on.
 YU Instagram: https://www.instagram.com/yuthehexacopter/
 
-[Back to top](https://github.com/yuthehexacopter/DroneComponents#dronecomponents)
+#### Buy A Basic Drone Kit
 
+- <a href="https://amzn.to/3hZKu4a" target="_blank">Amazon</a>
+
+[Back to top](https://github.com/yuthehexacopter/DroneComponents#dronecomponents)
 
 ### The Blog
 
@@ -147,9 +150,9 @@ Built from quality glass fiber and poly amide nylon.Integrated PCB connections f
 #### Buy Item
 
 - Qudcopter Frame with landing gear
-  - Amazon: https://amzn.to/3567RVV
+  - <a href="https://amzn.to/3567RVV" target="_blank">Amazon</a>
 - Hexacopter Frame
-  - Amazon: https://amzn.to/2R4Jwb3
+  - <a href="https://amzn.to/2R4Jwb3" target="_blank">Amazon</a>
 
 [Back to list](https://github.com/yuthehexacopter/DroneComponents#the-blog)
 
@@ -164,7 +167,7 @@ Built from quality glass fiber and poly amide nylon.Integrated PCB connections f
 
 #### Buy item
 
-- Amazon: https://amzn.to/3hVSXVV
+- <a href="https://amzn.to/3hVSXVV" target="_blank">Amazon</a>
 
 #### Arducopter (Discontinued)
 
@@ -192,7 +195,7 @@ Built from quality glass fiber and poly amide nylon.Integrated PCB connections f
 
 #### Buy item
 
-- Amazon: https://amzn.to/35193Kc
+- <a href="https://amzn.to/35193Kc" target="_blank">Amazon</a>
 
 [Back to list](https://github.com/yuthehexacopter/DroneComponents#the-blog)
 
@@ -218,7 +221,7 @@ in the market.
 
 #### Buy Item
 
-- Amazon: https://amzn.to/358ZsAW
+- <a href="https://amzn.to/358ZsAW" target="_blank">Amazon</a>
 
 [Back to list](https://github.com/yuthehexacopter/DroneComponents#the-blog)
 
@@ -262,6 +265,10 @@ They have wide and thin blades in their size category which makes them much flex
 *	It comes with a set of plastic reducers (2.75, 3, 3.17, 4, 4.70, 5, 6, 6.25 mm).
 *	Quick to release, quick to attach
 *	New design propellers, with greater aerodynamic efficiency, good lifting capacity.
+
+#### Buy Item
+
+- <a href="https://amzn.to/32WGfQf" target="_blank">Amazon</a>
 
 [Back to list](https://github.com/yuthehexacopter/DroneComponents#the-blog)
 
@@ -324,6 +331,10 @@ Ublox Neo 7M GPS module that includes an HMC5883L digital compass. The new Ublox
 *	LNA MAX2659ELT+
 *	Pre-configured 38,400 Baud and prams
 
+#### Buy Item
+
+- <a href="https://amzn.to/3lM2Nfl" target="_blank">Amazon</a>
+
 [Back to list](https://github.com/yuthehexacopter/DroneComponents#the-blog)
 
 ### Telemetry
@@ -358,6 +369,10 @@ This Telemetry radio set allows you to link to a flight controller via a USB equ
 *	Adaptive flow control when used with APM
 *	Based on the HopeRF HM-TRP radio module, featuring an SiLabs Si1000 RF microcontroller.
 *	Upgraded to more convince Molex 1.25mm
+
+#### Buy Item
+
+- <a href="https://amzn.to/2Z4kpJx" target="_blank">Amazon</a>
 
 [Back to list](https://github.com/yuthehexacopter/DroneComponents#the-blog)
 
@@ -415,6 +430,10 @@ This is the FlySky FS-i6 2.4G 6CH PPM RC Transmitter With FS-iA6B Receiver. This
 *	Model Type : Airplane / Glider / Helicopter.
 *	Compatible Transmitter: Compatible with FS-i4, FS-i6, FS-i10, FS-GT2E, FS-GT2G.
 
+#### Buy Item
+
+- <a href="https://amzn.to/3gYbNKJ" target="_blank">Amazon</a>
+
 [Back to list](https://github.com/yuthehexacopter/DroneComponents#the-blog)
 
 ### Companion Computers / IoT Boards
@@ -422,6 +441,10 @@ This is the FlySky FS-i6 2.4G 6CH PPM RC Transmitter With FS-iA6B Receiver. This
 #### Raspberry Pi
 
 The Raspberry Pi is a series of small single-board computers developed in the UK by the Raspberry Pi Foundation to put the power of computing and digital making into the hands of people all over the world. If at the beginning the aims of the Raspberry Pi project were leaned towards the promotion of teaching of basic computer science in schools and in developing countries, it rapidly expanded into a wider range of uses, as the original model became far more popular than anticipated, selling outside its target market for uses such as robotics. It is now widely used even in research projects, such as for weather monitoring because of its low cost and portability. It does not include peripherals (such as keyboards and mice) or cases. However, some accessories have been included in several official and unofficial bundles.
+
+#### Buy Item
+
+- <a href="https://amzn.to/2GsvwFS" target="_blank">Amazon</a>
 
 #### List of Single board computers and IoT Boards
 
@@ -469,6 +492,10 @@ The TFMini is a ToF (Time of Flight) LiDAR sensor capable of measuring the dista
 * Operating Wavelength: 850nm
 * Signal Acceptance Angle: 2.3°
 
+#### Buy Item
+
+- <a href="https://amzn.to/3lPTrPw" target="_blank">Amazon</a>
+
 [Back to list](https://github.com/yuthehexacopter/DroneComponents#the-blog)
 
 ### Power Module
@@ -478,6 +505,10 @@ The TFMini is a ToF (Time of Flight) LiDAR sensor capable of measuring the dista
 #### Plug Current Sensor
 
 Voltage and current measurement configured for 5V ADC. 6-pos DF13 cable plugs directly to APM 2.5's 'PM' connector. Switching regulator outputs 5.3V and 3A max. The Power Module comes completely assembled with Deans connectors, and wrapped in shrink tubing for protection.
+
+#### Buy Item
+
+- <a href="https://amzn.to/3hUObYQ" target="_blank">Amazon</a>
 
 ### Mission Planner
 
