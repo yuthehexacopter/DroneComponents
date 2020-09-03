@@ -248,7 +248,7 @@ Lithium Polymer batteries are a type of battery now used in many consumer electr
 
 Ublox Neo 7M GPS module that includes an HMC5883L digital compass. The new Ublox NEO 7 series is a high sensitivity, low power GPS module that has 56 channels and outputs precise position updates at 10Hz. This GPS module also comes with a molded plastic case which keeps the module protected against the elements making it ideal for use on your aircraft or quadcopter.
 
-#### Features:
+#### Features
 
 * Locate performance
 * These are Pre-configured, Flashed with the correct settings, and tested. To make them Plug and Play.
@@ -317,6 +317,58 @@ This Telemetry radio set allows you to link to a flight controller via a USB equ
 [Back to list](https://github.com/yuthehexacopter/DroneComponents#the-blog)
 
 ### Remote Controller
+
+![Remote Control!](/img/remote_control.png "Remote Control")
+
+##### Flysky FS-i6 2.4GHz 6 Channel RX+ TX
+
+This is the FlySky FS-i6 2.4G 6CH PPM RC Transmitter With FS-iA6B Receiver. This is a great entry-level radio for those just starting in the field of drones flying due to the ease of use of this product and an impressive list of features for a first-time radio. FlySky FS-i6 2.4G 6CH PPM RC Transmitter is a 6-channel telemetry 2.4GHz transmitter that uses the reliable Automatic Hopping Digital System (AFHDS) and includes such features as digital trims, backlit LCD screen, and simple programming.
+
+#### Features
+
+*	Entry-level 6 channel 2.4GHz radio with telemetry capability.
+*	Dual Rate/Trims/Gear/Flap/Gyro Gain Adjust/Flight Mode/Throttle Hold/Hover Pitch Switches.
+*	Easy to use Programming & Navigation Buttons.
+*	Supports Heli/Standard Wing/Elevon/V-Tail.
+*	20 Model Memory.
+*	8 Character Model Name.
+*	Trainer and charging ports.
+*	The backlit LCD screen displays real-time transmitter and receiver voltage.
+*	4 Stick Mode Selectable.
+*	2 Modes.
+*	It comes with a receiver.
+
+#### Features of Transmitter
+
+*	Model Type: Glider/Heli/Airplane
+*	Band: 142
+*	2.4ghz System: AFHDS 2A and AFHDS
+*	Code Type: GFSK
+*	DSC Port: PS2;
+*	Output:PPM
+*	Charger Port: No
+*	ANT length: 26mm*2(dual antenna)
+*	On-line update: Yes
+*	Certificate: CE0678,FCC
+*	Model Memories: 20
+*	Channel Order: Aileron-CH1, Elevator-CH2, Throttle-CH3, Rudder-CH4, Ch 5 & 6 open to assignment to other functions.
+
+#### Features of Receiver
+
+*	Channel: 6.
+*	Frequency Range: 2.4055–2.475 GHz.
+*	Band Width Number: 140
+*	Transmitting Power: ≤ 20 dBm.
+*	RF Receiver Sensitivity: 105 dBm.
+*	2.4G Mode: The second generation of an enhanced version of the automatic FM digital system.
+*	Encoding: GFSK.
+*	Antenna Length : 2 x 26 mm (dual antenna).
+*	Input Power : 4.0 – 8.4 VDC (2A).
+*	Dimension : 47 x 26.2 x 15 mm
+*	Weight : 14.9 gm.
+*	Data Acquisition Interface: Yes.
+*	Model Type : Airplane / Glider / Helicopter.
+*	Compatible Transmitter: Compatible with FS-i4, FS-i6, FS-i10, FS-GT2E, FS-GT2G.
 
 [Back to list](https://github.com/yuthehexacopter/DroneComponents#the-blog)
 
