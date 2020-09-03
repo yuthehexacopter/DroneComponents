@@ -64,7 +64,7 @@ These components are common for Quadcopter / Hexacopter as a carrier or racing d
 02. [LiDAR Sensor](https://github.com/yuthehexacopter/DroneComponents#lidar)
 03. [Power Module](https://github.com/yuthehexacopter/DroneComponents#power-module)
 
-### Accessories
+#### Accessories
 
 01. [Landing Gear](https://github.com/yuthehexacopter/DroneComponents#landing-gear)
 02. [Propeller Guard](https://github.com/yuthehexacopter/DroneComponents#propeller-guard)
