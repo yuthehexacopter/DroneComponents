@@ -512,6 +512,8 @@ Voltage and current measurement configured for 5V ADC. 6-pos DF13 cable plugs di
 
 - <a href="https://amzn.to/3hUObYQ" target="_blank">Amazon</a>
 
+[Back to list](https://github.com/yuthehexacopter/DroneComponents#the-blog)
+
 ### Landing Gear
 
 ![Landing Gear!](/img/landing-gear.png "Landing Gear")
@@ -530,6 +532,8 @@ This Plastic Landing Gear for Quadcopter is specially designed for the F450. It 
 *	Skid proof landing gears
 *	Compatible with Q450 and S500 and another large size frames
 
+[Back to list](https://github.com/yuthehexacopter/DroneComponents#the-blog)
+
 ### Propeller Guard
 
 ![Propeller Guards!](/img/guards.png "Propeller Guards")
@@ -538,6 +542,8 @@ Propeller guard will protect the propellers from crashes like accidentally bumpi
 
 *	Material: Plastic
 *	Weight: 145 grams
+
+[Back to list](https://github.com/yuthehexacopter/DroneComponents#the-blog)
 
 ### Mission Planner
 
