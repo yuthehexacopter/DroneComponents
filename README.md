@@ -58,9 +58,11 @@ These components are common for Quadcopter / Hexacopter as a carrier or racing d
 
 #### Advanced
 
-11. [Companion Computers](https://github.com/yuthehexacopter/DroneComponents#companion-computers--iot-boards)
-12. [LiDAR Sensor](https://github.com/yuthehexacopter/DroneComponents#lidar)
-13. [Power Module](https://github.com/yuthehexacopter/DroneComponents#power-module)
+01. [Companion Computers](https://github.com/yuthehexacopter/DroneComponents#companion-computers--iot-boards)
+02. [LiDAR Sensor](https://github.com/yuthehexacopter/DroneComponents#lidar)
+03. [Power Module](https://github.com/yuthehexacopter/DroneComponents#power-module)
+04. [Landing Gear](https://github.com/yuthehexacopter/DroneComponents#landing-gear)
+05. [Propeller Guard](https://github.com/yuthehexacopter/DroneComponents#propeller-guard)
 
 #### Software Requirements
 
@@ -509,6 +511,29 @@ Voltage and current measurement configured for 5V ADC. 6-pos DF13 cable plugs di
 #### Buy Item
 
 - <a href="https://amzn.to/3hUObYQ" target="_blank">Amazon</a>
+
+### Landing Gear
+
+This Plastic Landing Gear for Quadcopter is specially designed for the F450. It protects the frame during landing especially if you are using cameras for FPV. High-quality material which is very durable and heavy duty.
+
+*	Material: ABS Plastic
+*	Height: 150 mm
+*	Width: 275 mm
+*	Weight: 220 grams (with all included parts)
+
+#### Features
+
+*	Good-Quality Landing Gears
+*	Provides 200 mm ground clearance
+*	Skid proof landing gears
+*	Compatible with Q450 and S500 and another large size frames
+
+### Propeller Guard
+
+Propeller guard will protect the propellers from crashes like accidentally bumping into trees, walls, or any other obstacles.
+
+*	Material: Plastic
+*	Weight: 145 grams
 
 ### Mission Planner
 
