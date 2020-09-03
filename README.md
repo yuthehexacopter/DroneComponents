@@ -280,6 +280,8 @@ They have wide and thin blades in their size category which makes them much flex
 
 [Back to list](https://github.com/yuthehexacopter/DroneComponents#the-blog)
 
+---
+
 ### Battery
 
 #### Lipo battery
@@ -299,6 +301,8 @@ Lithium Polymer batteries are a type of battery now used in many consumer electr
 *	Need special care for charging, discharging, and storage.
 
 [Back to list](https://github.com/yuthehexacopter/DroneComponents#the-blog)
+
+---
 
 ### GPS Module
 
@@ -345,6 +349,8 @@ Ublox Neo 7M GPS module that includes an HMC5883L digital compass. The new Ublox
 
 [Back to list](https://github.com/yuthehexacopter/DroneComponents#the-blog)
 
+---
+
 ### Telemetry
 
 ![Telemetry!](/img/telementary.png "Telemetry")
@@ -383,6 +389,8 @@ This Telemetry radio set allows you to link to a flight controller via a USB equ
 - <a href="https://amzn.to/2Z4kpJx" target="_blank">Amazon</a>
 
 [Back to list](https://github.com/yuthehexacopter/DroneComponents#the-blog)
+
+---
 
 ### Remote Controller
 
@@ -444,6 +452,8 @@ This is the FlySky FS-i6 2.4G 6CH PPM RC Transmitter With FS-iA6B Receiver. This
 
 [Back to list](https://github.com/yuthehexacopter/DroneComponents#the-blog)
 
+---
+
 ### Companion Computers / IoT Boards
 
 #### Raspberry Pi
@@ -478,6 +488,8 @@ The Raspberry Pi is a series of small single-board computers developed in the UK
 
 [Back to list](https://github.com/yuthehexacopter/DroneComponents#the-blog)
 
+---
+
 ### LiDAR
 
 Lidar is a method for measuring distances by illuminating the target with laser light and measuring the reflection with a sensor. Differences in laser return times and wavelengths can then be used to make digital 3-D representations of the target. It has terrestrial, airborne, and mobile applications.
@@ -506,6 +518,8 @@ The TFMini is a ToF (Time of Flight) LiDAR sensor capable of measuring the dista
 
 [Back to list](https://github.com/yuthehexacopter/DroneComponents#the-blog)
 
+---
+
 ### Power Module
 
 ![Power Module!](/img/power-module.png "Power Module")
@@ -519,6 +533,8 @@ Voltage and current measurement configured for 5V ADC. 6-pos DF13 cable plugs di
 - <a href="https://amzn.to/3hUObYQ" target="_blank">Amazon</a>
 
 [Back to list](https://github.com/yuthehexacopter/DroneComponents#the-blog)
+
+---
 
 ### Landing Gear
 
@@ -540,6 +556,8 @@ This Plastic Landing Gear for Quadcopter is specially designed for the F450. It 
 
 [Back to list](https://github.com/yuthehexacopter/DroneComponents#the-blog)
 
+---
+
 ### Propeller Guard
 
 ![Propeller Guards!](/img/guards.png "Propeller Guards")
@@ -550,6 +568,8 @@ Propeller guard will protect the propellers from crashes like accidentally bumpi
 *	Weight: 145 grams
 
 [Back to list](https://github.com/yuthehexacopter/DroneComponents#the-blog)
+
+---
 
 ### Mission Planner
 
@@ -570,6 +590,8 @@ Propeller guard will protect the propellers from crashes like accidentally bumpi
 
 [Back to list](https://github.com/yuthehexacopter/DroneComponents#the-blog)
 
+---
+
 ### QGroundControl
 
 ![QGroundControl!](/img/qgroundcontrol.png "QGroundControl")
@@ -589,6 +611,8 @@ Propeller guard will protect the propellers from crashes like accidentally bumpi
 
 [Back to list](https://github.com/yuthehexacopter/DroneComponents#the-blog)
 
+---
+
 ### DroneKit
 
 ![DroneKit!](/img/drone-kit.png "DroneKit")
@@ -599,6 +623,8 @@ Propeller guard will protect the propellers from crashes like accidentally bumpi
 *Description:* DroneKit offers an SDK and web API to easily develop apps for your drones. It is used for intelligent planning, Flight Automation and Live telementary. DroneKit also helps create powerful apps that communicate directly with MAVLink vehicles and python API. DroneKit makes it easy to create customized Android experiences for in-flight interaction using Android API.
 
 [Back to list](https://github.com/yuthehexacopter/DroneComponents#the-blog)
+
+---
 
 ### Ardupilot
 
@@ -628,11 +654,15 @@ This is the full-featured, open-source multicopter UAV controller that won the S
 
 [Back to list](https://github.com/yuthehexacopter/DroneComponents#the-blog)
 
+---
+
 ### Repository
 
 Comming Soon!
 
 [Back to top](https://github.com/yuthehexacopter/DroneComponents#dronecomponents)
+
+---
 
 ### References
 
