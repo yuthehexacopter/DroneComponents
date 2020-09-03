@@ -62,6 +62,31 @@ These components are common for Quadcopter / Hexacopter as a carrier or racing d
 
 ### Drone Theory
 
+####Vertical Motion
+
+Drones use rotors for propulsion and control. The rotor can be considered as a fan which spins the  blades to push air down. All forces come in pairs, which means that as the rotor pushes down on the air, the air pushes up on the rotor. This is the basic idea behind lift, which comes down to controlling the upward and downward force. The faster the rotors spin, the greater the lift, and vice-versa.
+A drone or UAV can do three things in the vertical plane: hover, climb, or descend. To hover, the net thrust of the four rotors pushing the drone up must be equal to the gravitational force pulling it down. Just increase the thrust (speed) of the four rotors so that there is a non-zero upward force that is greater than the weight. After that, the thrust can be decreased a little bit but there are now three forces on the drone: weight, thrust, and air drag. So, thrusters still have to be greater than just a hover. Descending requires doing the exact opposite. Simply decrease the rotor thrust (speed) so the net force is downward.
+
+#### Turning (Rotating)
+
+##### Turning left
+
+In this configuration, the red rotors are rotating counterclockwise and the green ones are rotating clockwise. With the two sets of rotors rotating in opposite directions, the total angular momentum is zero. Angular momentum is a lot like linear momentum, and you calculate it by multiplying the angular velocity by the moment of inertia. The angular momentum depends on how fast the rotors spin.
+
+If there is no torque on the drone, then the total angular momentum must remain constant - zero in this case. The red counterclockwise rotors have a positive angular momentum and the green clockwise rotors have a negative angular momentum. I'll assign each rotor a value of +2, +2, -2, -2, which adds up to zero.
+
+##### Turning Right:
+
+If the angular velocity of rotor 1 decreased such that now it has an angular momentum of -1 instead of -2. The total angular momentum of the drone would now be +1. So the drone rotates clockwise so that the body of the drone has an angular momentum of -1. Decreasing the spin of rotor 1 did indeed cause the drone to rotate, but it also decreased the thrust from rotor 1. Now the net upward force does not equal the gravitational force, and the drone descends because the thrust forces aren't balanced, so the drone tips downward in the direction of rotor 1. To rotate the drone without creating all those other problems, decrease the spin of rotor 1 and 3 and increase the spin for rotors 2 and 4. The angular momentum of the rotors still doesn't add up to zero, so the drone body must rotate. But the total force remains equal to the gravitational force and the drone continues to hover. Since the lower thrust rotors are diagonally opposite from each other, the drone can still stay balanced.
+
+##### Forwards and Sideways
+
+Since the drones are symmetrical there is not much of a difference between forward, backward and sideways motion. Basically a quadcopter drone is like a car where every side is the front. In order to fly forward, a forward component of thrust is needed from the rotors. Here is a side view with forces of a drone moving at a constant speed.
+Increase the rotation rate of rotors 3 and 4 (the rear ones) and decrease the rate of rotors 1 and 2. The total thrust force will remain equal to the weight, so the drone will stay at the same vertical level. Also, since one of the rear rotors is spinning counterclockwise and the other clockwise, the increased rotation of those rotors will still produce zero angular momentum. The same holds true for the front rotors, and so the drone does not rotate. However, the greater force in the back of the drone means it will tilt forward. Now a slight increase in thrust for all rotors will produce a net thrust force that has a component to balance the weight along with a forward motion component.
+
+##### Using a Computer
+
+A type of computer control system which can simply push a joystick can be handled by a computer. Just as we are using a flight controller like Pixhawk and Arducopter in between. An accelerometer and gyroscope in the drone can further increase the ease and stability of flight by making minute adjustments in the power to each rotor. A GPS system can be added to get rid of the human entirely.
 
 [Back to list](https://github.com/yuthehexacopter/DroneComponents#the-blog)
 
