@@ -63,8 +63,12 @@ These components are common for Quadcopter / Hexacopter as a carrier or racing d
 01. [Companion Computers](https://github.com/yuthehexacopter/DroneComponents#companion-computers--iot-boards)
 02. [LiDAR Sensor](https://github.com/yuthehexacopter/DroneComponents#lidar)
 03. [Power Module](https://github.com/yuthehexacopter/DroneComponents#power-module)
-04. [Landing Gear](https://github.com/yuthehexacopter/DroneComponents#landing-gear)
-05. [Propeller Guard](https://github.com/yuthehexacopter/DroneComponents#propeller-guard)
+
+### Accessories
+
+01. [Landing Gear](https://github.com/yuthehexacopter/DroneComponents#landing-gear)
+02. [Propeller Guard](https://github.com/yuthehexacopter/DroneComponents#propeller-guard)
+03. [Raspberry PI Cover](https://github.com/yuthehexacopter/DroneComponents#raspberrypi-cover)
 
 #### Software Requirements
 
@@ -568,6 +572,22 @@ Propeller guard will protect the propellers from crashes like accidentally bumpi
 
 *	Material: Plastic
 *	Weight: 145 grams
+
+#### Buy Item
+
+- <a href="https://amzn.to/3gX8cMM" target="_blank">Amazon</a>
+
+[Back to list](https://github.com/yuthehexacopter/DroneComponents#the-blog)
+
+---
+
+### Raspberrypi Cover
+
+<img src="/img/rpiCover.jpg" alt="RaspberryPi Cover" width="400"/>
+
+This is the cover I have used.
+
+- <a href="https://amzn.to/2QQYNMf" target="_blank">Amazon</a>
 
 #### Buy Item
 
