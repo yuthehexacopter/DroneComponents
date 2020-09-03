@@ -71,6 +71,8 @@ A drone or UAV can do three things in the vertical plane: hover, climb, or desce
 
 #### Turning (Rotating)
 
+![Drone Rotation!](/img/drone-rotation.png "Drone Rotation")
+
 ##### Turning left
 
 In this configuration, the red rotors are rotating counterclockwise and the green ones are rotating clockwise. With the two sets of rotors rotating in opposite directions, the total angular momentum is zero. Angular momentum is a lot like linear momentum, and you calculate it by multiplying the angular velocity by the moment of inertia. The angular momentum depends on how fast the rotors spin.
@@ -94,10 +96,35 @@ A type of computer control system which can simply push a joystick can be handle
 
 ### Drone Rules
 
+Before taking a fly, make sure you are aware and following all the local rules and norms related to drones from your country and you local authority. It is the most important respect the provacy of other and the security guideline of the country.
 
 [Back to list](https://github.com/yuthehexacopter/DroneComponents#the-blog)
 
 ### Drone Frame
+
+![Drone Quadcopter Frame!](/img/drone-frame-quad.png "Drone Quadcopter Frame")
+
+Built from quality glass fiber and poly amide nylon.Integrated PCB connections for direct soldering of your ESCs and Pre-threaded brass sleeves for all the frame bolts.
+
+* Width: 450mm
+* Height: 55mm
+* Weight: 282 grams (w/out electronics)
+
+#### Features:
+* Made by advanced engineering material, super strong & smooth
+* Easy to assemble and disassemble.
+* The frame is tough and durable.
+* The main glass fiber frame has good strength.
+* The arm equips support ridges for better and faster forward flight.
+* Features pre-threaded brass sleeves.
+* Large mounting tabs for camera mounting.
+* In-built power distribution board.
+* Arm mounting holes: 3 mm.
+* Recommended: Propeller: "1045" OR "8045" Orange Propeller (CW & CCW)
+* Recommended: Battery: 3S Orange LiPo (1800 - 3600mAh)
+* Recommended: ESC: 15A - 40A.
+* Recommended: Motor: 800-1100 KV (brushless dc motor)
+
 
 [Back to list](https://github.com/yuthehexacopter/DroneComponents#the-blog)
 
