@@ -587,11 +587,9 @@ Propeller guard will protect the propellers from crashes like accidentally bumpi
 
 This is the cover I have used.
 
-- <a href="https://amzn.to/2QQYNMf" target="_blank">Amazon</a>
-
 #### Buy Item
 
-- <a href="https://amzn.to/3gX8cMM" target="_blank">Amazon</a>
+- <a href="https://amzn.to/2QQYNMf" target="_blank">Amazon</a>
 
 [Back to list](https://github.com/yuthehexacopter/DroneComponents#the-blog)
 
