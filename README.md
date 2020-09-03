@@ -107,11 +107,11 @@ Increase the rotation rate of rotors 3 and 4 (the rear ones) and decrease the ra
 
 The flying style is very important before purchasing a drone flight controller. Since each flight controller is designed for the specific flying purpose, you must choose a one which suits your needs. There are 3 flying styles for a drone.
 
-*Cinema flying:* This type of quad flight controllers serves the purpose of obtaining smooth videos. This type of flight controller has reduced flight characteristics and slow control stick rates.
+**Cinema flying:** This type of quad flight controllers serves the purpose of obtaining smooth videos. This type of flight controller has reduced flight characteristics and slow control stick rates.
 
-*Autonomous flying:* A lot of flyers, especially beginners, look to fly the quadcopter without using too many controls. The autonomous drone controllers can do most of the work for you with its auto programmed feature. Eg, auto take-off, auto landing, one-click return home, etc.
+**Autonomous flying:** A lot of flyers, especially beginners, look to fly the quadcopter without using too many controls. The autonomous drone controllers can do most of the work for you with its auto programmed feature. Eg, auto take-off, auto landing, one-click return home, etc.
 
-*Sports flying:* Sports flying is the most advanced flying style and liked by most of the experienced users. In this mode, you have to make quick changes during flight and you would have to vary between very aggressive and very passive maneuvers. This type of flying helps you to do fast roll rates, 360 degree flips, hold a particular angle, etc. This is why a sports quadcopter flight controller is lovable by pro users.
+**Sports flying:** Sports flying is the most advanced flying style and liked by most of the experienced users. In this mode, you have to make quick changes during flight and you would have to vary between very aggressive and very passive maneuvers. This type of flying helps you to do fast roll rates, 360 degree flips, hold a particular angle, etc. This is why a sports quadcopter flight controller is lovable by pro users.
 
 ##### Using a Computer
 
@@ -146,10 +146,10 @@ Built from quality glass fiber and poly amide nylon.Integrated PCB connections f
 * Large mounting tabs for camera mounting.
 * In-built power distribution board.
 * Arm mounting holes: 3 mm.
-* Recommended: Propeller: "1045" OR "8045" Orange Propeller (CW & CCW)
-* Recommended: Battery: 3S Orange LiPo (1800 - 3600mAh)
-* Recommended: ESC: 15A - 40A.
-* Recommended: Motor: 800-1100 KV (brushless dc motor)
+* **Recommended:** Propeller: "1045" OR "8045" Orange Propeller (CW & CCW)
+* **Recommended:** Battery: 3S Orange LiPo (1800 - 3600mAh)
+* **Recommended:** ESC: 15A - 40A.
+* **Recommended:** Motor: 800-1100 KV (brushless dc motor)
 
 #### Buy Item
 
@@ -581,9 +581,9 @@ Propeller guard will protect the propellers from crashes like accidentally bumpi
 
 ![Mission Planner!](/img/mission-planner.png "Mission Planner")
 
-*Software license:* Open Source
-*Compatible OS:* Windows
-*Description:* The Mission Planner is a ground control software  for ArduPilot created by Michael Oborne. Here are some
+**Software license:** Open Source
+**Compatible OS:** Windows
+**Description:** The Mission Planner is a ground control software  for ArduPilot created by Michael Oborne. Here are some
 
 #### Features
 
@@ -604,9 +604,9 @@ Propeller guard will protect the propellers from crashes like accidentally bumpi
 
 ![QGroundControl!](/img/qgroundcontrol.png "QGroundControl")
 
-*Software license:* Open Source
-*Compatible OS:* Windows,Mac, Linux/Unix, IOS & Android
-*Description:* QGroundControl provides full flight control and mission planning for any MAVLink enabled drone. Its primary goal is ease of use for professional users and developers.
+**Software license:** Open Source
+**Compatible OS:** Windows,Mac, Linux/Unix, IOS & Android
+**Description:** QGroundControl provides full flight control and mission planning for any MAVLink enabled drone. Its primary goal is ease of use for professional users and developers.
 
 #### Features
 
@@ -627,10 +627,10 @@ Propeller guard will protect the propellers from crashes like accidentally bumpi
 
 ![DroneKit!](/img/drone-kit.png "DroneKit")
 
-*Software license:* Open Source
-*Compatible OS:* Windows,Mac, Unix & Android
-*Language:* Python
-*Description:* DroneKit offers an SDK and web API to easily develop apps for your drones. It is used for intelligent planning, Flight Automation and Live telementary. DroneKit also helps create powerful apps that communicate directly with MAVLink vehicles and python API. DroneKit makes it easy to create customized Android experiences for in-flight interaction using Android API.
+**Software license:** Open Source
+**Compatible OS:** Windows,Mac, Unix & Android
+**Language:** Python
+**Description:** DroneKit offers an SDK and web API to easily develop apps for your drones. It is used for intelligent planning, Flight Automation and Live telementary. DroneKit also helps create powerful apps that communicate directly with MAVLink vehicles and python API. DroneKit makes it easy to create customized Android experiences for in-flight interaction using Android API.
 
 [Download](https://github.com/dronekit/dronekit-python)
 
