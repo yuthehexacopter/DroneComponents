@@ -141,7 +141,7 @@ Built from quality glass fiber and poly amide nylon.Integrated PCB connections f
 
 #### Arducopter (Discontinued)
 
-![pixhawk!](/img/pixhawk.png "Pixhawk")
+![pixhawk!](/img/arducopter.png "Pixhawk")
 
 * APM 2.6 is a revision of the APM that makes use of an external compass.
 * The APM 2.6 has no on board compass, and is optimized for vehicles where the compass should be placed as far from power and motor sources as possible to avoid magnetic interference.
@@ -282,6 +282,37 @@ Ublox Neo 7M GPS module that includes an HMC5883L digital compass. The new Ublox
 [Back to list](https://github.com/yuthehexacopter/DroneComponents#the-blog)
 
 ### Telemetry
+
+![Telemetry!](/img/telementary.png "Telemetry")
+
+#### Single TTL 3DR radio telemetry
+
+This Telemetry radio set allows you to link to a flight controller via a USB equipped device such as a computer, laptop or tablet supporting a USB connection (OTG). The Radio set not only lets you see live data such as live GPS position overlaid on a map (if the flight controller has the GPS option) to system voltage, heading, waypoint navigation even artificial horizon and so much more, using open source MAV link based ground station software.
+
+#### Features
+
+*	Very small size
+*	Light weight (under 4 grams without antenna)
+*	433Mhz frequency band
+*	Receiver sensitivity to -117 dBm
+*	Transmit power up to 20dBm (100mW)
+*	Transparent serial link
+*	Air data rates up to 250kbps
+*	Range of approx 1 mile with supplied antennas
+*	Demonstrated range of several kilometers with a small omni antenna
+*	Can be used with a bi-directional amplifier for even more range
+*	MAVLink protocol framing and status reporting
+*	Frequency hopping spread spectrum (FHSS)
+*	Adaptive time division multiplexing (TDM)
+*	Support for LBT and AFA
+*	Configurable duty cycle
+*	Built in error correcting code (can correct up to 25% data bit errors)
+*	Open source firmware
+*	AT commands for radio configuration
+*	RT commands for remote radio configuration
+*	Adaptive flow control when used with APM
+*	Based on the HopeRF HM-TRP radio module, featuring an SiLabs Si1000 RF microcontroller.
+*	Upgraded to more convince Molex 1.25mm
 
 [Back to list](https://github.com/yuthehexacopter/DroneComponents#the-blog)
 
