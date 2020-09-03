@@ -549,9 +549,9 @@ Comming Soon!
 
 Check the following websites for updates and configuration documentations.
 
-[Pixhawk](https://pixhawk.org/)
-[Ardupilot](https://ardupilot.org/copter/index.html)
-[Drone Kit](https://dronekit-python.readthedocs.io/en/latest/)
-[QGroundControl](http://qgroundcontrol.com/)
+* [Pixhawk](https://pixhawk.org/)
+* [Ardupilot](https://ardupilot.org/copter/index.html)
+* [Drone Kit](https://dronekit-python.readthedocs.io/en/latest/)
+* [QGroundControl](http://qgroundcontrol.com/)
 
 [Back to top](https://github.com/yuthehexacopter/DroneComponents#dronecomponents)
