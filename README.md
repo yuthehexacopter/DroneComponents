@@ -55,9 +55,8 @@ These components are common for Quadcopter / Hexacopter as a carrier or racing d
 
 #### Advanced
 
-7. [Companion Computers](https://github.com/yuthehexacopter/DroneComponents#companion-computers)
-8. [IoT board - Arduino & ESP8266](https://github.com/yuthehexacopter/DroneComponents#iot-boards)
-9. [LiDAR Sensor](https://github.com/yuthehexacopter/DroneComponents#lidar)
+7. [Companion Computers](https://github.com/yuthehexacopter/DroneComponents#companion-computers--iot-boards)
+8. [LiDAR Sensor](https://github.com/yuthehexacopter/DroneComponents#lidar)
 
 [Back to top](https://github.com/yuthehexacopter/DroneComponents#dronecomponents)
 
@@ -88,6 +87,16 @@ If the angular velocity of rotor 1 decreased such that now it has an angular mom
 
 Since the drones are symmetrical there is not much of a difference between forward, backward and sideways motion. Basically a quadcopter drone is like a car where every side is the front. In order to fly forward, a forward component of thrust is needed from the rotors. Here is a side view with forces of a drone moving at a constant speed.
 Increase the rotation rate of rotors 3 and 4 (the rear ones) and decrease the rate of rotors 1 and 2. The total thrust force will remain equal to the weight, so the drone will stay at the same vertical level. Also, since one of the rear rotors is spinning counterclockwise and the other clockwise, the increased rotation of those rotors will still produce zero angular momentum. The same holds true for the front rotors, and so the drone does not rotate. However, the greater force in the back of the drone means it will tilt forward. Now a slight increase in thrust for all rotors will produce a net thrust force that has a component to balance the weight along with a forward motion component.
+
+#### Flying Style
+
+The flying style is very important before purchasing a drone flight controller. Since each flight controller is designed for the specific flying purpose, you must choose a one which suits your needs. There are 3 flying styles for a drone.
+
+*Cinema flying:* This type of quad flight controllers serves the purpose of obtaining smooth videos. This type of flight controller has reduced flight characteristics and slow control stick rates.
+
+*Autonomous flying:* A lot of flyers, especially beginners, look to fly the quadcopter without using too many controls. The autonomous drone controllers can do most of the work for you with its auto programmed feature. Eg, auto take-off, auto landing, one-click return home, etc.
+
+*Sports flying:* Sports flying is the most advanced flying style and liked by most of the experienced users. In this mode, you have to make quick changes during flight and you would have to vary between very aggressive and very passive maneuvers. This type of flying helps you to do fast roll rates, 360 degree flips, hold a particular angle, etc. This is why a sports quadcopter flight controller is lovable by pro users.
 
 ##### Using a Computer
 
@@ -152,8 +161,19 @@ Built from quality glass fiber and poly amide nylon.Integrated PCB connections f
 *	The APM2.6 board is no longer supported for Copter. From Copter 3.3 firmware (and later) no longer fits on APM boards. The last firmware builds that can be installed (AC v3.2.1) can be downloaded from here: APM2.x and AMP1.x
 *	The APM2.6 board is no longer supported for Plane. The last firmware build that fits on the APM is Plane 3.3.0.
 
-[Back to list](https://github.com/yuthehexacopter/DroneComponents#the-blog)
+#### List of other available flight controllers
 
+1. The Naza-M V2 Flight Controller
+2. DJI A3 Flight Controller
+3. DJI N3 Quadcopter Flight Controller
+4. Naza-M Lite Flight Controller
+5. RJX Raceflight F4 Flight Controller
+6. Crazepony F3 Flight Controller
+7. Naze32 Rev 6 Flight Controller
+8. KISS FC – 32bit Flight Controller V1.03
+
+
+[Back to list](https://github.com/yuthehexacopter/DroneComponents#the-blog)
 
 ### ESC
 
@@ -378,6 +398,9 @@ This is the FlySky FS-i6 2.4G 6CH PPM RC Transmitter With FS-iA6B Receiver. This
 
 The Raspberry Pi is a series of small single-board computers developed in the UK by the Raspberry Pi Foundation to put the power of computing and digital making into the hands of people all over the world. If at the beginning the aims of the Raspberry Pi project were leaned towards the promotion of teaching of basic computer science in schools and in developing countries, it rapidly expanded into a wider range of uses, as the original model became far more popular than anticipated, selling outside its target market for uses such as robotics. It is now widely used even in research projects, such as for weather monitoring because of its low cost and portability. It does not include peripherals (such as keyboards and mice) or cases. However, some accessories have been included in several official and unofficial bundles.
 
+#### List of Single board computers and IoT Boards
+
+* ESP8266
 * Raspberry Pi Zero
 * Onion Omega2Plus	5
 * BBC micro:bit
@@ -401,13 +424,36 @@ The Raspberry Pi is a series of small single-board computers developed in the UK
 
 ### LiDAR
 
+Lidar is a method for measuring distances by illuminating the target with laser light and measuring the reflection with a sensor. Differences in laser return times and wavelengths can then be used to make digital 3-D representations of the target. It has terrestrial, airborne, and mobile applications.
+
+#### TFMini
+
+<img src="/img/lidar.jpg" alt="Lidar" width="400"/>
+
+The TFMini is a ToF (Time of Flight) LiDAR sensor capable of measuring the distance to an object as close as 30 centimeters and as far as 12 meters! As with all LiDAR sensors, your effective detection distance will vary depending on lighting conditions and the reflectivity of your target object, but what makes this sensor special is its size. Measuring only 42x15x16mm, the TFMini allows you to integrate LiDAR into applications traditionally reserved for smaller sensors such as the SHARP GP-series infrared rangefinders. The TFMini is easy to power at only 5V and easy to talk to using a 3.3V UART at 115200 baud.
+
+#### Features
+
+* Input Voltage: 5V
+* Average Power: ≤120mW
+* LED Peak Current: 800mA
+* UART TTL Voltage: 3.3V
+* Baud Rate: 115200 8N1
+* Resolution: 5mm
+* Minimum Detected Object Size at 2m: 20mm
+* Operating Wavelength: 850nm
+* Signal Acceptance Angle: 2.3°
+
 [Back to list](https://github.com/yuthehexacopter/DroneComponents#the-blog)
 
 ### Repository
+
+Comming Soon!
 
 [Back to top](https://github.com/yuthehexacopter/DroneComponents#dronecomponents)
 
 ### References
 
+Comming Soon!
 
 [Back to top](https://github.com/yuthehexacopter/DroneComponents#dronecomponents)
