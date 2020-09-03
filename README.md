@@ -55,8 +55,16 @@ These components are common for Quadcopter / Hexacopter as a carrier or racing d
 
 #### Advanced
 
-7. [Companion Computers](https://github.com/yuthehexacopter/DroneComponents#companion-computers--iot-boards)
-8. [LiDAR Sensor](https://github.com/yuthehexacopter/DroneComponents#lidar)
+11. [Companion Computers](https://github.com/yuthehexacopter/DroneComponents#companion-computers--iot-boards)
+12. [LiDAR Sensor](https://github.com/yuthehexacopter/DroneComponents#lidar)
+13. [Power Module](https://github.com/yuthehexacopter/DroneComponents#power-module)
+
+#### Software Requirements
+
+01. [Mission Planner](https://github.com/yuthehexacopter/DroneComponents#mission-planner)
+02. [QGroundControl](https://github.com/yuthehexacopter/DroneComponents#qgroundcontrol)
+03. [DroneKit](https://github.com/yuthehexacopter/DroneComponents#dronekit)
+04. [Ardupilot](https://github.com/yuthehexacopter/DroneComponents#ardupilot)
 
 [Back to top](https://github.com/yuthehexacopter/DroneComponents#dronecomponents)
 
@@ -443,6 +451,91 @@ The TFMini is a ToF (Time of Flight) LiDAR sensor capable of measuring the dista
 * Minimum Detected Object Size at 2m: 20mm
 * Operating Wavelength: 850nm
 * Signal Acceptance Angle: 2.3°
+
+[Back to list](https://github.com/yuthehexacopter/DroneComponents#the-blog)
+
+### Power Module
+
+![Power Module!](/img/power-module.png "Power Module")
+
+#### Plug Current Sensor
+
+Voltage and current measurement configured for 5V ADC. 6-pos DF13 cable plugs directly to APM 2.5's 'PM' connector. Switching regulator outputs 5.3V and 3A max. The Power Module comes completely assembled with Deans connectors, and wrapped in shrink tubing for protection.
+
+### Mission Planner
+
+![Mission Planner!](/img/mission-planner.png "Mission Planner")
+
+*Software license:* Open Source
+*Compatible OS:* Windows
+*Description:* The Mission Planner is a ground control software  for ArduPilot created by Michael Oborne. Here are some
+
+#### Features
+
+*	Point-and-click waypoint entry, using Google Maps/Bing/Open street maps/Custom WMS.
+*	Select mission commands from drop-down menus
+*	Download mission log files and analyze them
+*	Configure APM settings for your airframe
+*	Interface with a PC flight simulator to create a full hardware-in-the-loop UAV simulator.
+*	See the output from APM’s serial terminal
+
+[Back to list](https://github.com/yuthehexacopter/DroneComponents#the-blog)
+
+### QGroundControl
+
+![QGroundControl!](/img/qgroundcontrol.png "QGroundControl")
+
+*Software license:* Open Source
+*Compatible OS:* Windows,Mac, Linux/Unix, IOS & Android
+*Description:* QGroundControl provides full flight control and mission planning for any MAVLink enabled drone. Its primary goal is ease of use for professional users and developers.
+
+#### Features
+
+*	Full setup/configuration of ArduPilot and PX4 Pro powered vehicles.
+*	Flight support for vehicles running PX4 and ArduPilot (or any other autopilot that communicates using the MAVLink protocol).
+*	Mission planning for autonomous flight.
+*	Flight map display showing vehicle position, flight track, waypoints and vehicle instruments.
+*	Video streaming with instrument display overlays.
+*	Support for managing multiple vehicles.
+
+[Back to list](https://github.com/yuthehexacopter/DroneComponents#the-blog)
+
+### DroneKit
+
+![DroneKit!](/img/drone-kit.png "DroneKit")
+
+*Software license:* Open Source
+*Compatible OS:* Windows,Mac, Unix & Android
+*Language:* Python
+*Description:* DroneKit offers an SDK and web API to easily develop apps for your drones. It is used for intelligent planning, Flight Automation and Live telementary. DroneKit also helps create powerful apps that communicate directly with MAVLink vehicles and python API. DroneKit makes it easy to create customized Android experiences for in-flight interaction using Android API.
+
+[Back to list](https://github.com/yuthehexacopter/DroneComponents#the-blog)
+
+### Ardupilot
+
+![Ardupilot!](/img/ardupilot.png "Ardupilot")
+
+This is the full-featured, open-source multicopter UAV controller that won the Sparkfun 2013 and 2014 Autonomous Vehicle Competition (dominating with the top five spots). Copter is capable of the full range of flight requirements from fast paced FPV racing to smooth aerial photography, and fully autonomous complex missions which can be programmed through a number of compatible software ground stations. The entire package is designed to be safe, feature rich, open-ended for custom applications, and is increasingly easy to use even for the novice.
+
+*	A Pixhawk or other autopilot loaded with the latest version of the Copter firmware.
+*	Mission Planner software – gives you an easy point-and-click setup/configuration, and a full-featured ground control interface.
+*	This Copter Wiki provides all the information you need to set up and operate a multicopter or traditional helicopter.
+*	A suitable MultiCopter or Helicopter for your mission.
+*	Plus many other useful options: e.g. data radios, which allow two-way wireless telemetry and control between the vehicle and your computer.
+
+#### Multicopters:
+
+*	Utilize differential thrust management of independent motor-prop units to provide lift and directional control
+*	Benefit from mechanical simplicity and design flexibility
+*	A capable payload lifter that’s functional in strong wind conditions
+*	Redundant lift sources can give increased margin of safety
+*	Varied form factor allows convenient options for payload mounting.
+
+#### Helicopters:
+
+*	Typically use a single lifting rotor with two or more blades
+*	Maintain directional control by varying blade pitch via servo-actuated mechanical linkage (many versions of these craft exist and it is beyond the scope of this manual to cover them all – the mechanical systems used in helicopters warrant special study and consideration)
+*	Strong, fast and efficient – a proven-worker suitable to many missions.
 
 [Back to list](https://github.com/yuthehexacopter/DroneComponents#the-blog)
 
