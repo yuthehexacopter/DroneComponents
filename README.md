@@ -8,7 +8,7 @@ DroneComponents
 3. [Repository](https://github.com/yuthehexacopter/DroneComponents#repository)
 4. [Important References](https://github.com/yuthehexacopter/DroneComponents#references)
 
-Hi, I am Ankit. I am an Engineer. Recently I started an Insta handle @yuthehexacopter and posted some of the
+Hi, I am Ankit. I am an Engineer. Recently, I started an Insta handle @yuthehexacopter and posted some of the
 drone footages and snaps which I recetnly built.
 
 ### YU - The Hexacopter <a name="introduction"></a>
