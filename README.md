@@ -32,7 +32,7 @@ YU Instagram: https://www.instagram.com/yuthehexacopter/
 
 #### Buy A Basic Drone Kit
 
-I would recommend, there are tons of ways to build a quadcopter under a budget, so feel free to do your research before buying anything. Suggested (But not recommended), a basic kit below if you want to make a basic manually drive quodcopter.  
+I would recommend, there are tons of ways to build a quadcopter under a budget, so feel free to do your research before buying anything. Suggested (But not recommended), a basic kit below if you want to build a basic manually driven quodcopter.  
 
 - <a href="https://amzn.to/3hZKu4a" target="_blank">Amazon</a>
 
