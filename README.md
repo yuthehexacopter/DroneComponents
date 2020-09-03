@@ -62,7 +62,9 @@ These components are common for Quadcopter / Hexacopter as a carrier or racing d
 
 ### Drone Theory
 
-####Vertical Motion
+![Drone Motion!](/img/drone-motion.png "Drone Motion")
+
+#### Vertical Motion
 
 Drones use rotors for propulsion and control. The rotor can be considered as a fan which spins the  blades to push air down. All forces come in pairs, which means that as the rotor pushes down on the air, the air pushes up on the rotor. This is the basic idea behind lift, which comes down to controlling the upward and downward force. The faster the rotors spin, the greater the lift, and vice-versa.
 A drone or UAV can do three things in the vertical plane: hover, climb, or descend. To hover, the net thrust of the four rotors pushing the drone up must be equal to the gravitational force pulling it down. Just increase the thrust (speed) of the four rotors so that there is a non-zero upward force that is greater than the weight. After that, the thrust can be decreased a little bit but there are now three forces on the drone: weight, thrust, and air drag. So, thrusters still have to be greater than just a hover. Descending requires doing the exact opposite. Simply decrease the rotor thrust (speed) so the net force is downward.
