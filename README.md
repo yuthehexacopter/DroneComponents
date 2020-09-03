@@ -34,6 +34,7 @@ YU Instagram: https://www.instagram.com/yuthehexacopter/
 
 
 ### The Blog
+
 A lot of people who have come accross have been asking me question regarding the making of a drone. So, In my blog today, I will take you for a rollar-coster ride about how you make your own copter with all the Components available in the market today and play with it. All your questions have been summed-up here and you can always connect with me on my [instagram](https://www.instagram.com/yuthehexacopter/).
 
 Well let start with the List of the Components. You need the following items in our inventory to make your own Copter.
@@ -110,7 +111,8 @@ Built from quality glass fiber and poly amide nylon.Integrated PCB connections f
 * Height: 55mm
 * Weight: 282 grams (w/out electronics)
 
-#### Features:
+#### Features
+
 * Made by advanced engineering material, super strong & smooth
 * Easy to assemble and disassemble.
 * The frame is tough and durable.
@@ -130,22 +132,152 @@ Built from quality glass fiber and poly amide nylon.Integrated PCB connections f
 
 ### Flight Controller
 
+#### Pixhawk
+
+![pixhawk!](/img/pixhawk.png "Pixhawk")
+
+* Pixhawk is an independent open-hardware project that aims to provide the standard for readily-available, hiqh-quality and low-cost autopilot hardware designs for the academic, hobby and developer communities.
+* Pixhawk supports many additional sensors and other devices via PX4 drivers
+
+#### Arducopter (Discontinued)
+
+![pixhawk!](/img/pixhawk.png "Pixhawk")
+
+* APM 2.6 is a revision of the APM that makes use of an external compass.
+* The APM 2.6 has no on board compass, and is optimized for vehicles where the compass should be placed as far from power and motor sources as possible to avoid magnetic interference.
+* APM 2.6 is designed to be used with the 3DR GPS uBlox LEA-6 with Compass module.
+*	The GPS/Compass module may be mounted further from noise sources than the APM itself.
+*	APM 2.6 requires a GPS unit with an on board compass for full autonomy.
+*	For information on installing a 3DR GPS uBlox LEA-6 with Compass, visit 3DR Power Module.
+*	The APM2.6 board is no longer supported for Copter. From Copter 3.3 firmware (and later) no longer fits on APM boards. The last firmware builds that can be installed (AC v3.2.1) can be downloaded from here: APM2.x and AMP1.x
+*	The APM2.6 board is no longer supported for Plane. The last firmware build that fits on the APM is Plane 3.3.0.
+
 [Back to list](https://github.com/yuthehexacopter/DroneComponents#the-blog)
 
 
 ### ESC
 
+![ESC!](/img/esc.png "ESC")
+
+An electronic speed control or ESC is an electronic circuit that controls and regulates the speed of an electric motor. It may also provide reversing of the motor and dynamic braking.
+
+* Cut Off Voltage: 4V
+* Current: 30A
+
+#### Features
+
+* High-quality MOSFETs for BLDC motor drive.
+* Backward-polarity protection and protection on the 5V receiver line.
+* High-performance microcontroller for best compatibility with all types of motors at greater efficiency.
+* Fully programmable with any standard RC remote control.
+* Heat sink with a high-performance heat transmission membrane for better thermal management.
+* 3 start modes: Normal / Soft / Super-Soft, compatible with fixed-wing aircraft and helicopters.
+* Throttle range can be configured to be compatible with any remote control available
+in the market.
+
 [Back to list](https://github.com/yuthehexacopter/DroneComponents#the-blog)
 
 ### Motors and Propellers
+
+#### Brushless Motor
+
+![Motor!](/img/motors.png "Motor")
+
+Built with high-end magnets, a high pole count and custom motor mount.
+
+* Length: 40 mm
+* Width: 27.7 mm
+* Shaft Diameter: 3.17 mm
+* Item Weight: 53 grams
+
+#### Features
+
+*	The steel design is capable of withstanding competitive conditions.
+*	Lightweight design makes them suitable for a wide range of quadcopters and Hexacopter Frames.
+*	Compact size.
+*	Offers great performance and value for money.
+*	Smooth throttle response for best RC experience.
+
+#### 1045/1045R propellers
+
+This is 1045(10x4.5) SF Propellers Black. They are for lower RPM motor and slow flying drone models.
+They have wide and thin blades in their size category which makes them much flexible in crash conditions where they do not break easily. 1045(10x4.5) SF Propellers Black especially draws larger currents and in results will give you a considerable amount of thrust.
+1045(10x4.5) SF Props have high-quality propellers specially designed for multi-copters. 1045(10x4.5) SF Props has 15° angle design in the end of the propeller to avoid whirlpool multi-copter flying.
+
+*	Material: Carbon Nylon
+*	Thickness of center: 9.7mm
+*	Length: 10 inch (25.4cm)
+*	Slope: 4.5 inch (11.43cm)
+*	Weight: 30 gms
+
+#### Features:
+
+*	Comes with thin and wide blades
+*	1045(10x4.5) SF Propellers Black features epoxy resin cover.
+*	It comes with a set of plastic reducers (2.75, 3, 3.17, 4, 4.70, 5, 6, 6.25 mm).
+*	Quick to release, quick to attach
+*	New design propellers, with greater aerodynamic efficiency, good lifting capacity.
 
 [Back to list](https://github.com/yuthehexacopter/DroneComponents#the-blog)
 
 ### Battery
 
+#### Lipo battery
+
+Lithium Polymer batteries are a type of battery now used in many consumer electronics devices. They have been gaining in popularity in the radio control industry over the last few years, and are now the most popular choice for anyone looking for long run times and high power. LiPo batteries offer a wide array of benefits, but each user must decide if the benefits outweigh the drawbacks.
+
+#### Pros
+
+*	Light weight, and can be made in almost any size or shape.
+*	High capacities, allowing them to hold much more power.
+*	Much higher discharge rates, meaning they pack more punch.
+
+#### Cons
+
+*	Short lifespan; LiPos average only 150–250 cycles.
+*	The sensitive chemistry can lead to fire if the battery gets punctured.
+*	Need special care for charging, discharging, and storage.
+
 [Back to list](https://github.com/yuthehexacopter/DroneComponents#the-blog)
 
 ### GPS Module
+
+![GPS!](/img/gps.png "GPS")
+
+#### Ublox Neo 7M GPS Module or Ublox Neo 8M GPS Module
+
+Ublox Neo 7M GPS module that includes an HMC5883L digital compass. The new Ublox NEO 7 series is a high sensitivity, low power GPS module that has 56 channels and outputs precise position updates at 10Hz. This GPS module also comes with a molded plastic case which keeps the module protected against the elements making it ideal for use on your aircraft or quadcopter.
+
+#### Features:
+
+* Locate performance
+* These are Pre-configured, Flashed with the correct settings, and tested. To make them Plug and Play.
+*	Super Bright LED
+*	Backplane with Standard Mk style mounting holes 45mm X 45mm
+*	38400 bps (Default) Changed to 115200bps!
+*	Output GGA, GSA and RMC frames
+*	1Hz (Default) Changed to 5Hz!
+*	Permanent Configuration Retention
+*	compass on board
+*	6 pin connectors for EZ connect to MEGA BLACK
+*	4 pin connectors for only GPS use
+*	4 pin connectors for compass only use
+*	Can use both 4 pin at once.
+*	56-channel
+*	GPS L1 C/A, GLONASS L1 FDMA
+*	QZSS L1 C/A
+*	Galileo E1B/C
+*	SBAS: WAAS, EGNOS, MSAS
+*	10Hz update rate
+*	25x25x2 Ceramic patch antenna
+*	Rechargeable 3V Backup battery
+*	Low noise 3.3V regulator
+*	I2C EEPROM storage
+*	Power and fix LED’s
+*	Pedestal Mount/Case
+*	Pixhawk/PX4 compatible
+*	LNA MAX2659ELT+
+*	Pre-configured 38,400 Baud and prams
 
 [Back to list](https://github.com/yuthehexacopter/DroneComponents#the-blog)
 
@@ -172,6 +304,7 @@ Built from quality glass fiber and poly amide nylon.Integrated PCB connections f
 ### Repository
 
 [Back to top](https://github.com/yuthehexacopter/DroneComponents#dronecomponents)
+
 ### References
 
 
